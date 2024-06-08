@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-S~n~L
+S<sub>n</sub>L
