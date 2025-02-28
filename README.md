@@ -1,3 +1,2 @@
-## Hi there 👋
+## REC Student
 
-S<sub>n</sub>L
